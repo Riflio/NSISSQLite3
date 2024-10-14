@@ -7,7 +7,7 @@
 
 * NSIS 3.10, SQLite 3.46.1
 * INSERT/UPDATE/DELETE/CREATE/DROP/etc (WITHOUT return result from SELECT and so on)
-* Import sql file
+* Import sql file (UTF-8 encoding)
 
 ## Сборка
 
