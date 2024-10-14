@@ -25,8 +25,8 @@ cmake --build . --config Release
 ```
 
 Готовый плагин nsissqliteplugin.dll поместить в:
-Windows: "C:\Program Files (x86)\NSIS\Pluguns\x86-unicode\"
-Linux: "/usr/share/nsis/Plugins/x86-unicode/"
+* Windows: "C:\Program Files (x86)\NSIS\Pluguns\x86-unicode\"
+* Linux: "/usr/share/nsis/Plugins/x86-unicode/"
 
 
 ## Пример использования
